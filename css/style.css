@@ -1523,7 +1523,7 @@ p {
     margin-top: 153px;
   }
   .quebra blockquote {
-  padding: 15px 0 10px;
+  padding: 25px 0 10px;
   }
   .wah3,
   .wah4,
@@ -1543,8 +1543,7 @@ p {
     text-align: center;
   }
   .cypher img {
-    position: relative;
-    right: -45px;
+    width: 100%;
   }
   .solve {
     margin: 20px 0 10px;
