@@ -1522,6 +1522,9 @@ p {
   .header-break {
     margin-top: 153px;
   }
+  .quebra blockquote {
+  padding: 15px 0 10px;
+  }
   .wah3,
   .wah4,
   .wah5,
