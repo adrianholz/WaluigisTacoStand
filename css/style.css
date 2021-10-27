@@ -1442,11 +1442,8 @@ p {
   }
   .main .not-showing-2 {
     display: block;
-    margin: 0;
-    width: 400px;
-    position: relative;
-    left: -45px;
-    top: 15px;
+    margin: 30px 0 0 0;
+    width: 100%;
   }
   .intro h1 {
     font-size: 30px;
@@ -1455,7 +1452,7 @@ p {
     font-size: 18px;
   }
   .home-dishes {
-    margin-top: 120px;
+    margin-top: 80px;
   }
   .story-main img {
     display: none;
